@@ -2,6 +2,7 @@
     "users": [
         {"id": 1, "mbsn": "NXM09EM1413061E6861601"},
         {"id": 2, "mbsn": "MP2KC6D7"},
-        {"id": 3, "mbsn": "PF3J30T5"}
+        {"id": 3, "mbsn": "PF3J30T5"},
+        {"id": 4, "mbsn": "SystemSerialNumber"}
     ]
 }
